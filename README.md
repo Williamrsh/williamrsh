@@ -14,5 +14,6 @@
 
   <div><a href = "mailto:wrodrigues.santos@outlook.com" target="_blank"><img src=https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
 
-  </div>
+  <div><a href = "https://wa.me/5511950824367" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
   
+     
