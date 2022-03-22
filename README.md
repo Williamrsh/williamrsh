@@ -1,11 +1,8 @@
 # Olá, eu sou o Willliam
 Apaixonado por tecnologia e motivado por desafios.
-<div>
-<a href="https://github.com/Williamrsh">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamrsh&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Williamrsh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Williamrsh&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williamrsh&hide=TeX&layout=compact)
   ## Contato
   
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511950824367)](https://wa.me/5511950824367)
