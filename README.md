@@ -1,4 +1,4 @@
-## Olá eu sou o Willliam.
+## Olá, eu sou o Willliam.
 
 <div>
 <a href="https://github.com/Williamrsh">
