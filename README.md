@@ -9,7 +9,6 @@ Apaixonado por tecnologia e motivado por desafios.
   
   ## Contato
   
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511950824367)](https://wa.me/5511950824367)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Williamrsh/)]()
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:wrodrigues.santos@outlook.com)](mailto:wrodrigues.santos@outlook.com)
 
